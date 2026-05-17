@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MyImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4927432720635115912
+  m_GuidHigh: 9184529922634588330
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5059459997879654996
+      m_GuidHigh: 5074198210442671265
+    m_SerializedTextureGuid:
+      m_GuidLow: 16317800249469651503
+      m_GuidHigh: 2054283139154684683
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-Main-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4788548064342004780
+      m_GuidHigh: 17716066026662343346
+    m_SerializedTextureGuid:
+      m_GuidLow: 17155434569535541437
+      m_GuidHigh: 2624788484997889674
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-Library-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5238190196063592386
+      m_GuidHigh: 6926950831182312837
+    m_SerializedTextureGuid:
+      m_GuidLow: 16169048795739931571
+      m_GuidHigh: 17080136048569359291
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-CS-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5275614866509608348
+      m_GuidHigh: 520944737222339497
+    m_SerializedTextureGuid:
+      m_GuidLow: 16614919162102786555
+      m_GuidHigh: 17300373002011122441
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-CS-2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5119419939960167642
+      m_GuidHigh: 12446036731848648594
+    m_SerializedTextureGuid:
+      m_GuidLow: 14854116722728923450
+      m_GuidHigh: 3382040301316864395
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-CS-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5307919613247934660
+      m_GuidHigh: 11961290436855844230
+    m_SerializedTextureGuid:
+      m_GuidLow: 12552874623491762460
+      m_GuidHigh: 12731233520896864616
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-EC-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5211062728718956680
+      m_GuidHigh: 18292204567215632027
+    m_SerializedTextureGuid:
+      m_GuidLow: 16511548057827899569
+      m_GuidHigh: 7970468484784717705
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-EC-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5134197767925154390
+      m_GuidHigh: 3300538766308134020
+    m_SerializedTextureGuid:
+      m_GuidLow: 4950807355633438616
+      m_GuidHigh: 10445253456180282203
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-EC-2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5231165603613237232
+      m_GuidHigh: 9383386113548627379
+    m_SerializedTextureGuid:
+      m_GuidLow: 10994515379402398739
+      m_GuidHigh: 18180855305560098667
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-EC-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5686245016800263818
+      m_GuidHigh: 15121132668314747290
+    m_SerializedTextureGuid:
+      m_GuidLow: 11953920913126605409
+      m_GuidHigh: 11145625255295299353
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-EX-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5213268865572968164
+      m_GuidHigh: 3652428704570888587
+    m_SerializedTextureGuid:
+      m_GuidLow: 2284583488957710921
+      m_GuidHigh: 1683990096941653211
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-EX-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5291107948099301039
+      m_GuidHigh: 10345459443435400623
+    m_SerializedTextureGuid:
+      m_GuidLow: 8346362543567337133
+      m_GuidHigh: 17234282195657266058
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-Main-2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4748028507090650755
+      m_GuidHigh: 484005362105975938
+    m_SerializedTextureGuid:
+      m_GuidLow: 2230638416261208919
+      m_GuidHigh: 7468823293462511513
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-Main-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5236427837398628370
+      m_GuidHigh: 4621420008869329562
+    m_SerializedTextureGuid:
+      m_GuidLow: 16434971767529111218
+      m_GuidHigh: 7871419787777466120
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-Office-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4911997100855744694
+      m_GuidHigh: 8129863186469166260
+    m_SerializedTextureGuid:
+      m_GuidLow: 5211904267927103475
+      m_GuidHigh: 8578486071142542072
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Lift-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5729216935988502175
+      m_GuidHigh: 2073419395655619760
+    m_SerializedTextureGuid:
+      m_GuidLow: 16331180652590402466
+      m_GuidHigh: 8863527694714577864
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Lift-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5608666514808411236
+      m_GuidHigh: 17561285182823806390
+    m_SerializedTextureGuid:
+      m_GuidLow: 12350024434420521487
+      m_GuidHigh: 1465896392732894683
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Lift-2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5388097852609755473
+      m_GuidHigh: 5235057178139152054
+    m_SerializedTextureGuid:
+      m_GuidLow: 7062971797934610329
+      m_GuidHigh: 4606329934449744057
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Lift-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5740650879825595551
+      m_GuidHigh: 1111245731755788730
+    m_SerializedTextureGuid:
+      m_GuidLow: 9003981032392583828
+      m_GuidHigh: 574240579907116314
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-EC-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4615255038798327978
+      m_GuidHigh: 12329536565464610191
+    m_SerializedTextureGuid:
+      m_GuidLow: 17232017904723622547
+      m_GuidHigh: 7535172715101461163
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-EC-2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5193307928824930362
+      m_GuidHigh: 8351115348580890294
+    m_SerializedTextureGuid:
+      m_GuidLow: 7499762661603633587
+      m_GuidHigh: 9112966052474549704
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-EC-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4721955709103110277
+      m_GuidHigh: 14273208859081553808
+    m_SerializedTextureGuid:
+      m_GuidLow: 1847823503592736503
+      m_GuidHigh: 7438951459221544267
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Lib-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5039981547863633038
+      m_GuidHigh: 9737132643175690934
+    m_SerializedTextureGuid:
+      m_GuidLow: 17731972253470205028
+      m_GuidHigh: 14239903119696139722
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Lib-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5081901834910399648
+      m_GuidHigh: 5321128471654810303
+    m_SerializedTextureGuid:
+      m_GuidLow: 1766657054302305664
+      m_GuidHigh: 12136227622272771466
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Lib-2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5174666183641246503
+      m_GuidHigh: 2940882098578843264
+    m_SerializedTextureGuid:
+      m_GuidLow: 15277547704657872463
+      m_GuidHigh: 11143011144855353593
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Lib-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5571495902532714222
+      m_GuidHigh: 12269629037430008489
+    m_SerializedTextureGuid:
+      m_GuidLow: 9949769106479211104
+      m_GuidHigh: 13216629781878408041
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Main-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5696830498306204698
+      m_GuidHigh: 758900423190351238
+    m_SerializedTextureGuid:
+      m_GuidLow: 10904496028736057408
+      m_GuidHigh: 6400094813901456489
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Main-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5181014391357088205
+      m_GuidHigh: 15491406027145140865
+    m_SerializedTextureGuid:
+      m_GuidLow: 433520786523050627
+      m_GuidHigh: 1872889593608359961
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Main-2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5387755579926028275
+      m_GuidHigh: 11688291772260414342
+    m_SerializedTextureGuid:
+      m_GuidLow: 8292274354899059479
+      m_GuidHigh: 6022558364248223211
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-Main-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4689544089213564988
+      m_GuidHigh: 1926202982489033109
+    m_SerializedTextureGuid:
+      m_GuidLow: 5747956472898476056
+      m_GuidHigh: 10183333970854047227
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-NE-0
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5506404411075315451
+      m_GuidHigh: 905476143170321589
+    m_SerializedTextureGuid:
+      m_GuidLow: 12642750798970178560
+      m_GuidHigh: 2105929856633770440
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-NE-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5601607316429427250
+      m_GuidHigh: 6095735021205698197
+    m_SerializedTextureGuid:
+      m_GuidLow: 4166988697906460056
+      m_GuidHigh: 14021305994297921019
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Stairs-NE-3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5050280826388582255
+      m_GuidHigh: 2024425791002771378
+    m_SerializedTextureGuid:
+      m_GuidLow: 1559590906253677821
+      m_GuidHigh: 11039127286109424841
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Junction-Main-1
+    m_Texture: {fileID: 0}
