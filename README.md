@@ -66,12 +66,6 @@ The application was developed and tested as a mobile-based AR indoor navigation 
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots below)
-
----
-
 ## 🔗 LinkedIn Project Demo
 
-[View Project Demo on LinkedIn](PASTE_YOUR_LINK_HERE)
+[View AR Indoor Navigation Demo on LinkedIn](https://www.linkedin.com/posts/samruddhisamu2005_augmentedreality-unity3d-arcore-ugcPost-7431705287557906432-k71l)
